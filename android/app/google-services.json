@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "849912881490",
+    "project_id": "fire-awenot",
+    "storage_bucket": "fire-awenot.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849912881490:android:66b48b8a08c045da7d1a8b",
+        "android_client_info": {
+          "package_name": "com.example.fire_awenot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNsVTQSdSNBTLtlOig1jMBlduqrps88RY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
